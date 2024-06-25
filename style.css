@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box;
+}
+.navbar{
+    height:60px;
+    background-color: white;
+    color:black;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height:50px;
+    width:150px;
+}
+.logo{
+    background-image: url(nykaalogo.png);
+    height:50px;
+    width:100%;
+    background-size:cover ;
+    margin-right:20px;
+  
+}
+.border{
+   border:2px solid transparent;
+}
+.border:hover{
+    border:1.5px solid pink;
+}
+.panel-ops p{
+     display:inline;
+     margin-right: 40px;
+     font-weight: 500;
+   
+}
+.nav-search{
+    display:flex;
+    background-color: #F3F3F3;
+    width: 250px;
+    height:30px;
+    justify-content: space-evenly;
+  
+}
+.search-input{
+    width:100%;
+    font-size: 1rem;
+    border-color: #F3F3F3;
+    background-color: #F3F3F3;
+    border:none;
+}
+.search-icon{
+    width:60px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 100;
+}
+.nav-acc{
+    font-weight: 540;
+}
+.nav-wish{
+    font-weight: 540;
+}
+.nav-cart{
+    font-weight: 540;
+}
+.panel-all{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-weight: 200;
+    background-color: #F3F3F3;
+    height:35px;
+    margin-right:20px ;
+}
+.hero-section{
+    background-image: url(nykaa.avif);
+    height:400px;
+    background-size: cover;
+}
