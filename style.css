@@ -33,6 +33,7 @@
      display:inline;
      margin-right: 40px;
      font-weight: 500;
+    
    
 }
 .nav-search{
@@ -75,8 +76,31 @@
     height:35px;
     margin-right:20px ;
 }
+.panel-all  :hover  {
+    color: rgb(238, 8, 58);
+    text-decoration: underline;
+}
 .hero-section{
     background-image: url(nykaa.avif);
     height:400px;
     background-size: cover;
+}
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 24px 0px 0px 20px;
+
+    
+}
+.box{
+    height:94.48px;
+    border: 2px solid transparent;
+    width:10%;
+    background-size: cover;
+}
+.shop-section P{
+    margin-left: 20px;;
+}
+.shop-section p2{
+    margin-left: 40px;
 }
