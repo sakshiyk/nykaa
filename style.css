@@ -93,7 +93,7 @@
     
 }
 .box{
-    height:94.48px;
+    height:180px;
     border: 2px solid transparent;
     width:10%;
     background-size: cover;
@@ -103,4 +103,63 @@
 }
 .shop-section p2{
     margin-left: 40px;
+}
+.dress-code{
+    display: flex;
+    margin-top: 30px;
+    text-align: center;
+    justify-content: center;
+    
+   
+}
+.voxa{
+    height:218px;
+    border : 1px solid transparent;
+    width:148px;
+    background-size: cover;
+}
+.block{
+    display:flex;
+    margin-top:70px;
+    text-align: center;
+    justify-content:space-evenly;
+   
+}
+.yoxa{
+    height:550px;
+    border:1px solid transparent;
+    width: 450px;
+    background-size: cover;
+}
+.words{
+  
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.words p{
+    color:lightslategray;
+}
+.styles{
+    display:flex;
+    margin-top:30px;
+    text-align: center;
+    justify-content:center;
+}
+.zoxa{
+    height:460px;
+    border:1px solid transparent;
+    width: 310px;
+    background-size: cover;
+}
+.chic-code{
+    display:flex;
+    margin-top:30px;
+    text-align: center;
+    justify-content:space-evenly;  
+}
+.toca{
+    height:350px;
+    border:1px solid transparent;
+    width:250px;
+    background-size: cover;
 }
