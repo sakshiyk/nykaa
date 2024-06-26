@@ -16,7 +16,7 @@
     width:150px;
 }
 .logo{
-    background-image: url(nykaalogo.png);
+    background-image: url(./image/nykaalogo.png);
     height:50px;
     width:100%;
     background-size:cover ;
@@ -85,7 +85,7 @@
 }
 
 .hero-section{
-    background-image: url(nykaa.avif);
+    background-image: url(./image/nykaa.avif);
     height:400px;
     background-size: cover;
 }
@@ -113,7 +113,7 @@
     margin-top: 15px;
     text-align: center;
     justify-content: center;
-    
+    scale: 1.2;
    
 }
 .voxa{
